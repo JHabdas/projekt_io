@@ -1,0 +1,14 @@
+C:\Program Files\Git\projekt-csharp\projekt_io\bin\Debug\net7.0\projekt_io.exe
+C:\Program Files\Git\projekt-csharp\projekt_io\bin\Debug\net7.0\projekt_io.deps.json
+C:\Program Files\Git\projekt-csharp\projekt_io\bin\Debug\net7.0\projekt_io.runtimeconfig.json
+C:\Program Files\Git\projekt-csharp\projekt_io\bin\Debug\net7.0\projekt_io.dll
+C:\Program Files\Git\projekt-csharp\projekt_io\bin\Debug\net7.0\projekt_io.pdb
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.AssemblyInfoInputs.cache
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.AssemblyInfo.cs
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.dll
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\refint\projekt_io.dll
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.pdb
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\projekt_io.genruntimeconfig.cache
+C:\Program Files\Git\projekt-csharp\projekt_io\obj\Debug\net7.0\ref\projekt_io.dll
