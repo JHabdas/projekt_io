@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("Podaj imie: ");
+string imie = Console.ReadLine();
+Console.WriteLine("Witaj " + imie);
